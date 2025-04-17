@@ -1,0 +1,20 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+
+/* Main.css */
+.main-container {
+ 
+  background-image: url('../img/model.jpg');
+  background-size: cover;
+  display: flex;
+  
+  padding: 135px;
+
+ 
+}
+
+
