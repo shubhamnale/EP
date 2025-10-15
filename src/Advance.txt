@@ -3,7 +3,6 @@ components to avoid this issues and keep the code concise.
 // console.log('2'+2+'2')//222
 // console.log('2'+2-'2')//20
 
-// const arr=[1,2,3,4,5]
 
 
 // console.log(doubledNumbers); 
