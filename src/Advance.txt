@@ -14,8 +14,6 @@ components to avoid this issues and keep the code concise.
 
 // console.log(doubledNumbers); 
 // Output: [2, 4, 6, 8, 10]
-const numbers = [1, 2, 3, 4,5];
-
 const total = numbers.filter((num) =>  num*2==4 ); // Sum of numbers
  // Calculate average
 
