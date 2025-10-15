@@ -7,7 +7,6 @@ components to avoid this issues and keep the code concise.
 
 // console.log(doubledNumbers); 
 // "use"
-// const numbers = [1, 2, 3, 4, 5];
 
 // const doubledNumbers = numbers.map(num => num * 2);
 
