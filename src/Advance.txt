@@ -23,8 +23,7 @@ console.log(total); // Output: 25
 
 /* /* Navbar layout */
 nav {
-    display: flex;
-    align-items: center;
+      align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
     background: white;
